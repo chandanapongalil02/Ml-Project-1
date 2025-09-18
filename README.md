@@ -1,0 +1,1 @@
+Machine learning technology forms the core of this project, leveraging regression algorithms to model and predict continuous target values. Various tools and libraries from the Python ecosystem, including NumPy, Pandas, Matplotlib, Scikit-learn, and Seaborn are used.
